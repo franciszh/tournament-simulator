@@ -39,7 +39,7 @@ class TournamentApp {
       next(err);
     });
 
-    this.server = app.listen(port, () => console.log(`server running on port ${port}`));
+    this.server = app.listen(port,'0.0.0.0', () => console.log(`server running on port ${port}`));
   }
 
   close() {
