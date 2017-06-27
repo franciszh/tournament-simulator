@@ -2,7 +2,6 @@
 
 The goal of this task is to simulate a single-elimination knockout tournament in the browser, determining the winner as quickly as possible.
 
-We expect this task will take around 5 hours.
 
 The simulation must implement the following flow:
 
