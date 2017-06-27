@@ -1,0 +1,24 @@
+/*
+    Edit me.
+*/
+#winner{
+    display: block;
+    padding-top: 20px;
+    height: 20px;
+    line-height : 20px;
+}
+.empty-box{
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    border : 1px solid black;
+}
+.fill-box{
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    border : 1px solid black;
+    background: #008000;
+}
